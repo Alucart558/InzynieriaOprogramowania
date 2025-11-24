@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="29.1.1">
+  <diagram name="Strona-1" id="mrabIus0Gr3CwAF3o5x8">
+    <mxGraphModel dx="2183" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CO10W3_3If2KJgYvY17x-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Verdana;" value="&lt;div&gt;student&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="470" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;pracownik dziekanatu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="190" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-15" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Przydział akademików" vertex="1">
+          <mxGeometry height="50" width="60" x="220" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zapisy na zajęcia" vertex="1">
+          <mxGeometry height="60" width="60" x="220" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BLIK" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="kierownik dz." vertex="1">
+          <mxGeometry height="60" width="30" x="425" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-28" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;" target="CO10W3_3If2KJgYvY17x-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-29" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fad7ac;strokeColor=#b46504;" target="CO10W3_3If2KJgYvY17x-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-30" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-4" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d0cee2;strokeColor=#56517e;" target="CO10W3_3If2KJgYvY17x-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-31" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-4" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="CO10W3_3If2KJgYvY17x-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-32" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="CO10W3_3If2KJgYvY17x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System Obsługi Studenta" vertex="1">
+          <mxGeometry height="30" width="190" x="150" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tworzenie planu urlopu" vertex="1">
+          <mxGeometry height="45" width="60" x="410" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-41" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-20" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#b1ddf0;strokeColor=#10739e;" target="CO10W3_3If2KJgYvY17x-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="34" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="294" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-46" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-45" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CO10W3_3If2KJgYvY17x-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="394" y="500" as="sourcePoint" />
+            <mxPoint x="164" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dokonanie płatności" vertex="1">
+          <mxGeometry height="40" width="60" x="64" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Przedłużenie subskrybcji" vertex="1">
+          <mxGeometry height="50" width="60" x="324" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="przeglądanie kalendarza imprez" vertex="1">
+          <mxGeometry height="80" width="120" x="30" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-52" edge="1" parent="1" source="CO10W3_3If2KJgYvY17x-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="CO10W3_3If2KJgYvY17x-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-53" connectable="0" parent="CO10W3_3If2KJgYvY17x-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2222" y="-1" as="geometry">
+            <mxPoint x="14" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO10W3_3If2KJgYvY17x-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ulubione zespoły" vertex="1">
+          <mxGeometry height="80" width="120" x="294" y="850" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
