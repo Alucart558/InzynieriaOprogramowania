@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Page-1" id="FD8Gcs2NY1wKC1vufB0b">
+    <mxGraphModel dx="1858" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FTnifwiv-nyco7fp0IPn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="440" width="600" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System X-Fit" vertex="1">
+          <mxGeometry height="30" width="100" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-27" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="FTnifwiv-nyco7fp0IPn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-29" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" target="FTnifwiv-nyco7fp0IPn-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="550" />
+              <mxPoint x="290" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Trener" vertex="1">
+          <mxGeometry height="60" width="30" x="260" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-36" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="FTnifwiv-nyco7fp0IPn-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="560" />
+              <mxPoint x="20" y="560" />
+              <mxPoint x="20" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-37" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;" target="FTnifwiv-nyco7fp0IPn-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="540" />
+              <mxPoint x="180" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrator" vertex="1">
+          <mxGeometry height="60" width="30" x="395" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-16" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;" target="FTnifwiv-nyco7fp0IPn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-28" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="FTnifwiv-nyco7fp0IPn-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="380" />
+              <mxPoint x="425" y="380" />
+              <mxPoint x="425" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-30" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" target="FTnifwiv-nyco7fp0IPn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-32" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" target="FTnifwiv-nyco7fp0IPn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Użytkownik Premium" vertex="1">
+          <mxGeometry height="60" width="30" x="710" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-31" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d80073;strokeColor=#A50040;" target="FTnifwiv-nyco7fp0IPn-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="210" />
+              <mxPoint x="530" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-33" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" target="FTnifwiv-nyco7fp0IPn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Użytkownik Standardowy" vertex="1">
+          <mxGeometry height="60" width="30" x="710" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Śledzenie aktywności" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-15" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;" target="FTnifwiv-nyco7fp0IPn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Przeglądanie planu treningowego" vertex="1">
+          <mxGeometry height="80" width="120" x="470" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Śledzenie diety" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Otrzymywanie planu od AI" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Komunikacja z trenerem" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tworzenie planów" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-22" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="FTnifwiv-nyco7fp0IPn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Monitorowanie podopiecznych" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Zarządzanie kontami" vertex="1">
+          <mxGeometry height="80" width="120" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Generowanie raportów" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-34" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f0a30a;strokeColor=#BD7000;" target="FTnifwiv-nyco7fp0IPn-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="260" />
+              <mxPoint x="314" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTnifwiv-nyco7fp0IPn-35" edge="1" parent="1" source="FTnifwiv-nyco7fp0IPn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.667;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;" target="FTnifwiv-nyco7fp0IPn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
